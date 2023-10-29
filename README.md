@@ -4,7 +4,7 @@
 
 Check out our carefully selected list of **basic** and **advanced** Big O Notation questions and answers to be well-prepared for your tech interviews in 2024.
 
-![Big O Notation Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/bigONotation.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698600062&Signature=jRGFDSMfUpCli%2F%2ByZsuRhe%2BGeEN4CKdGY6TobSH30%2FA5JcHV1jfUw686msEqEY1MC%2FouwGNwYW6M%2Bu1VK3AakyOULFXcVtvAQxE94DJkEmdlxYmsiCUPajFv7AGln7K8klN%2B%2FUiNSGnDQ8g5qfXZQ7Ek2rH%2F0zJYTnhXRJqJX9D970Z0TYTygq3v8VPN7awsStT5EQbXASKoAIcaBIE0WnS5Pvc4jwjmN9%2BntKjJE9EjTd4L2KCfOnGsTfLx4aLkQ2X7a3YMbOqpIvZn9YiwSv9g7DbSDKO%2FPww9NR0i9H98%2BE03%2FsR6WN6zbfsb9HTIAD5%2BpUHzc5ZElnCcRITd%2Bg%3D%3D)
+![Big O Notation Decorative Image](https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/blogImg%2FbigONotation.png?alt=media&token=032e0b79-9d67-4c9b-9d90-7bacf6bf7fa3&_gl=1*hjc4qh*_ga*OTYzMjY5NTkwLjE2ODg4NDM4Njg.*_ga_CW55HF8NVT*MTY5ODYwNTk1NS4xOTAuMS4xNjk4NjA3MzkwLjM2LjAuMA..)
 
 👉🏼 You can also find all answers here: [Devinterview.io - Big O Notation](https://devinterview.io/data/bigONotation-interview-questions)
 
